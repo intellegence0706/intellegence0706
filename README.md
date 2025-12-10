@@ -1,5 +1,4 @@
 <!-- 🌌 Space Banner (GitHub-hosted, always works) -->
-![Galaxy Banner](https://raw.githubusercontent.com/risenW/Galaxy-Themes/main/banners/nebula-1.jpg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-AI%20ENGINEER-0b7285?style=for-the-badge" />
@@ -13,7 +12,7 @@
 
 ---
 
-### 🛰 Tech Stack – AI × Blockchain (Pyramid)
+###  Tech Stack – AI × Blockchain
 
 <!-- 🔥 Animated stack highlight -->
 <p align="center">
