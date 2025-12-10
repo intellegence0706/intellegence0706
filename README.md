@@ -8,7 +8,8 @@
 </p>
 
 <!-- Animated divider -->
-![Wave Animation](https://raw.githubusercontent.com/kyechan99/capsule-render/main/public/svg/wave.svg)
+![Space Banner](https://raw.githubusercontent.com/USERNAME/REPO/main/ASSETS/space-banner.png)
+
 
 ---
 
