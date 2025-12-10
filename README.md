@@ -1,56 +1,48 @@
-<!-- README.md -->
-# 🌌 Space-Theme Full-Stack Portfolio
-**AI • Blockchain • Full-Stack • Cloud • Motion UI**
+🌌 Cosmic Full-Stack Developer
+AI • Blockchain • Web3 • Cloud • Motion UI • Full-Stack Engineer
+<p align="center"> <img src="https://i.gifer.com/fetch/6d/6d0188a3b8e928f37f3b43f5201fa89d.gif" width="100%" /> </p>
+🚀 About Me
 
-<p align="center">
-  <!-- Banner GIF (place file at assets/space-banner.gif) -->
-  <img src="./assets/space-banner.gif" alt="Space banner" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.4)"/>
-</p>
+I build advanced digital systems merging AI, blockchain, and full-stack engineering—
+wrapped in smooth animations, cosmic UI, and scalable architecture.
 
----
+🛠️ Animated Tech Stack (SVG, not GIF)
 
-## ✨ One-liner
-Innovative Full-Stack Engineer building AI-driven products, secure smart contracts, and beautiful motion-driven user experiences.
+Beautiful vector-animated icons that move smoothly (GitHub supports animated SVG).
 
----
+⚠️ These are real animated SVG icons—NOT GIFs.
 
-## 🚀 Highlights
-- **AI**: LLM integrations, RAG, embeddings, vision systems  
-- **Blockchain**: Solidity smart contracts, dApps, NFTs, Ethers.js  
-- **Full-Stack**: React / Next.js, Node / FastAPI, Postgres, Docker  
-- **Cloud / DevOps**: AWS, Vercel, CI/CD, containerized infra
+🌟 Frontend
+<p align="center"> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/react.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/nextjs.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/vue.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/javascript.svg" width="60" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/typescript.svg" width="60" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/tailwind.svg" width="70" /> </p>
+🧠 AI / Machine Learning
+<p align="center"> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/python.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/pytorch.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/tensorflow.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/opencv.svg" width="70" /> </p>
+⛓ Blockchain / Web3
+<p align="center"> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/ethereum.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/solidity.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/web3js.svg" width="70" /> </p>
+🖥️ Backend
+<p align="center"> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/nodejs.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/express.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/fastapi.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/docker.svg" width="70" /> </p>
+📱 Mobile
+<p align="center"> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/flutter.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/react.svg" width="70" /> </p>
+🗄️ Database
+<p align="center"> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/postgresql.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/mongodb.svg" width="70" /> <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/icons/mysql.svg" width="70" /> </p>
+🌠 Cosmic Section Break
+<p align="center"> <img src="https://raw.githubusercontent.com/roldanjrCodearts/codearts/main/assets/gradient-mesh.gif" width="100%" /> </p>
+📂 Copy-Friendly Code Block
 
----
+Click the button on GitHub to copy — already formatted for Markdown.
 
-## 🛠 Tech Stack (animated SVG icons — save them to `assets/svg/`)
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO
+cd YOUR_REPO
+npm install
+npm run dev
 
-<p align="center">
-  <img src="./assets/svg/react.svg" width="88" height="88" alt="React"/>
-  <img src="./assets/svg/nodejs.svg" width="88" height="88" alt="Node.js"/>
-  <img src="./assets/svg/python.svg" width="88" height="88" alt="Python"/>
-  <img src="./assets/svg/solidity.svg" width="88" height="88" alt="Solidity"/>
-  <img src="./assets/svg/docker.svg" width="88" height="88" alt="Docker"/>
-  <img src="./assets/svg/aws.svg" width="88" height="88" alt="AWS"/>
-</p>
+⭐ GitHub Stats (Animated Theme)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" /> </div>
+🪐 Want an even more cosmic version?
 
-> These are **animated SVGs** — they are vector, lightweight, and animate without GIFs.
+I can upgrade with:
 
----
-
-## 🔭 Featured Projects (GIFs for motion preview)
-- **AI Chat —** Streaming LLM assistant (RAG, embeddings, streaming).  
-  <p align="center"><img src="./assets/ai-chat-demo.gif" alt="AI Chat Demo" width="640"/></p>
-
-- **NFT Marketplace —** Solidity contracts + Web3 front-end.  
-  <p align="center"><img src="./assets/nft-market-demo.gif" alt="NFT Demo" width="640"/></p>
-
----
-
-## 📋 Copy-ready Snippets
-Below are useful snippets you can copy — click the **Copy** button on the right of each block on GitHub.
-
-### Project README badge line
-```md
-[![Website](https://img.shields.io/badge/website-online-brightgreen)](https://your-site.example)
-[![Stack](https://img.shields.io/badge/stack-Full--Stack-blue)]()
-[![AI](https://img.shields.io/badge/ai-LLM%20%2F%20NLP-yellow)]()
+✨ Real 3D planet animations (SVG)
+✨ Neon cyberpunk UI
+✨ Galaxy particle animation banners
+✨ Typing-effect title generator
+✨ Custom SVG icons made only for you
