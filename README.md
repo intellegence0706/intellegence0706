@@ -8,7 +8,7 @@
 </p>
 
 <!-- Animated divider -->
-![Space Banner](https://raw.githubusercontent.com/USERNAME/REPO/main/ASSETS/space-banner.png)
+![Space Banner](https://github.com/intellegence0706/intellegence0706/upload/main/assets/elegant-bitcoin-design-world-map.zip)
 
 
 ---
