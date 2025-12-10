@@ -39,3 +39,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,aws,gcp,docker" />
 </p>
+assets/space-header.png
+assets/space-divider.svg
