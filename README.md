@@ -8,7 +8,7 @@
 </p>
 
 <!-- Animated divider -->
-![Space Banner](https://github.com/intellegence0706/intellegence0706/tree/main/assets/111.png)
+![Space Banner](https://github.com/intellegence0706/intellegence0706/blob/main/assets/111.png)
 
 
 ---
