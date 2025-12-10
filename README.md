@@ -84,32 +84,5 @@
 ### **Design + Engineering + Motion**
 </div>
 
----
 
-# 📈 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
-
-</div>
-
----
-
-# 💫 Particle Animation Banner
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
----
-
-# 📬 Contact  
-- 🌐 Portfolio: https://your-portfolio.com  
-- ✉️ Email: you@example.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile  
 
