@@ -1,5 +1,5 @@
-<!-- 🛰 Space-style header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=AI%20%26%20Blockchain%20Engineer&fontSize=32&fontAlignY=35&desc=Building%20Intelligent%20Protocols%20%26%20On-chain%20Systems&descAlignY=60&animation=twinkling)
+<!-- 🌌 Space Banner (GitHub-hosted, always works) -->
+![Galaxy Banner](https://raw.githubusercontent.com/risenW/Galaxy-Themes/main/banners/nebula-1.jpg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-AI%20ENGINEER-0b7285?style=for-the-badge" />
@@ -7,13 +7,17 @@
   <img src="https://img.shields.io/badge/LOCATION-JAPAN-1864ab?style=for-the-badge" />
 </p>
 
+<!-- Animated divider -->
 ![Wave Animation](https://raw.githubusercontent.com/kyechan99/capsule-render/main/public/svg/wave.svg)
-
-
 
 ---
 
 ### 🛰 Tech Stack – AI × Blockchain (Pyramid)
+
+<!-- 🔥 Animated stack highlight -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00E1FF&center=true&vCenter=true&width=600&lines=Python+%7C+Rust+%7C+Solidity;TypeScript+%7C+Node.js+%7C+Go;React+%7C+Next.js+%7C+WASM;AWS+%7C+GCP+%7C+Docker+%7C+Linux" />
+</p>
 
 <!-- Level 1 – Core identity -->
 <p align="center">
