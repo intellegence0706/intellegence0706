@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/LOCATION-JAPAN-1864ab?style=for-the-badge" />
 </p>
 
-<!-- 🌌 Space-style strip under header -->
-![AI x Blockchain](https://gradient-svg-generator.vercel.app/api/svg?text=AI%20%E2%98%86%20Blockchain&template=electromagnetic-field&height=80)
+![Space Animation](https://raw.githubusercontent.com/kyechan99/capsule-render/main/public/svg/wave.svg)
+
 
 ---
 
