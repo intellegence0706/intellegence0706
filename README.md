@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/LOCATION-JAPAN-1864ab?style=for-the-badge" />
 </p>
 
-![Space Animation](https://raw.githubusercontent.com/kyechan99/capsule-render/main/public/svg/wave.svg)
+![Wave Animation](https://raw.githubusercontent.com/kyechan99/capsule-render/main/public/svg/wave.svg)
+
 
 
 ---
