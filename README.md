@@ -1,80 +1,56 @@
-<button onclick="navigator.clipboard.writeText(document.getElementById('readme-content').innerText)" style="padding:10px 20px; border-radius:8px; background:#4f46e5; color:white; border:none; cursor:pointer;">
-  📋 Copy README
-</button>
-
-<div id="readme-content">
-
-<!-- =================== START OF README =================== -->
-
-<!-- 🟣 HERO BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
-</p>
-
-<h1 align="center">🌌 Full-Stack Developer | AI • Blockchain • Web3</h1>
+<!-- README.md -->
+# 🌌 Space-Theme Full-Stack Portfolio
+**AI • Blockchain • Full-Stack • Cloud • Motion UI**
 
 <p align="center">
-  <em>Crafting intelligent systems, beautiful UI, and next-generation Web3 experiences.</em>
+  <!-- Banner GIF (place file at assets/space-banner.gif) -->
+  <img src="./assets/space-banner.gif" alt="Space banner" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.4)"/>
 </p>
 
 ---
 
-## ⚡ Animated Tech Stack (Dynamic GIF Icons)
+## ✨ One-liner
+Innovative Full-Stack Engineer building AI-driven products, secure smart contracts, and beautiful motion-driven user experiences.
+
+---
+
+## 🚀 Highlights
+- **AI**: LLM integrations, RAG, embeddings, vision systems  
+- **Blockchain**: Solidity smart contracts, dApps, NFTs, Ethers.js  
+- **Full-Stack**: React / Next.js, Node / FastAPI, Postgres, Docker  
+- **Cloud / DevOps**: AWS, Vercel, CI/CD, containerized infra
+
+---
+
+## 🛠 Tech Stack (animated SVG icons — save them to `assets/svg/`)
 
 <p align="center">
-  <!-- Replace GIFs later if you want -->
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="110" title="React"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="110" title="JavaScript"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="110" title="Python"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="110" title="Node.js"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="110" title="Git"/>
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="110" title="Solidity"/>
+  <img src="./assets/svg/react.svg" width="88" height="88" alt="React"/>
+  <img src="./assets/svg/nodejs.svg" width="88" height="88" alt="Node.js"/>
+  <img src="./assets/svg/python.svg" width="88" height="88" alt="Python"/>
+  <img src="./assets/svg/solidity.svg" width="88" height="88" alt="Solidity"/>
+  <img src="./assets/svg/docker.svg" width="88" height="88" alt="Docker"/>
+  <img src="./assets/svg/aws.svg" width="88" height="88" alt="AWS"/>
 </p>
 
----
-
-## 🚀 AI Chat Platform  
-A modern LLM web application with streaming responses and RAG.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="650"/>
-</p>
+> These are **animated SVGs** — they are vector, lightweight, and animate without GIFs.
 
 ---
 
-## ⛓ NFT Marketplace (Solidity + Web3)
+## 🔭 Featured Projects (GIFs for motion preview)
+- **AI Chat —** Streaming LLM assistant (RAG, embeddings, streaming).  
+  <p align="center"><img src="./assets/ai-chat-demo.gif" alt="AI Chat Demo" width="640"/></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/RhEvCHg6fiA418dRzn/giphy.gif" width="650"/>
-</p>
-
----
-
-## 📊 Motion Dashboard (React + Framer Motion)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/H7wajFPnZGdRWaQeu0/giphy.gif" width="650"/>
-</p>
+- **NFT Marketplace —** Solidity contracts + Web3 front-end.  
+  <p align="center"><img src="./assets/nft-market-demo.gif" alt="NFT Demo" width="640"/></p>
 
 ---
 
-## 📈 GitHub Stats
+## 📋 Copy-ready Snippets
+Below are useful snippets you can copy — click the **Copy** button on the right of each block on GitHub.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight" width="48%">
-</p>
-
----
-
-## 🌐 Contact  
-
-- Portfolio: https://your-portfolio.com  
-- Email: you@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-
----
-
-<!-- =================== END OF README =================== -->
-
-</div>
+### Project README badge line
+```md
+[![Website](https://img.shields.io/badge/website-online-brightgreen)](https://your-site.example)
+[![Stack](https://img.shields.io/badge/stack-Full--Stack-blue)]()
+[![AI](https://img.shields.io/badge/ai-LLM%20%2F%20NLP-yellow)]()
