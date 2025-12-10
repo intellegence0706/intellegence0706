@@ -7,7 +7,7 @@
 </p>
 
 <!-- Animated divider -->
-![Space Banner](https://github.com/intellegence0706/intellegence0706/blob/main/assets/111.png)
+![Space Banner](https://github.com/intellegence0706/intellegence0706/blob/main/assets/222.png)
 
 
 ---
@@ -38,5 +38,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,aws,gcp,docker" />
 </p>
-assets/space-header.png
-assets/space-divider.svg
+
