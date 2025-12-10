@@ -8,7 +8,7 @@
 </p>
 
 <!-- Animated divider -->
-![Space Banner](https://github.com/intellegence0706/intellegence0706/upload/main/assets/9632.jpg)
+![Space Banner](https://github.com/intellegence0706/intellegence0706/upload/main/ChatGPT Image Dec 11, 2025, 03_26_21 AM.png)
 
 
 ---
