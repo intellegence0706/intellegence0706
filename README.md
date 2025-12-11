@@ -15,9 +15,7 @@
 ###  Tech Stack – AI × Blockchain
 
 <!-- 🔁 Animated domain-specific stack "icons" -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=800&color=00E1FF&center=true&vCenter=true&width=650&lines=🤖+AI+Stack:+Python+%7C+PyTorch+%7C+LangChain;⛓+Blockchain:+Solidity+%7C+Rust+%7C+Hardhat+%7C+Foundry;🌐+Full-Stack:+TypeScript+%7C+React+%7C+Next.js+%7C+Node.js" />
-</p>
+
 
 <!-- 🔥 Animated stack highlight -->
 <p align="center">
