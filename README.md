@@ -76,6 +76,14 @@
 </p>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Web3-111827?style=flat" />
+</p>
+
+
+
 <!-- Level 3 -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redis,postgres,mongodb,wasm" />
