@@ -73,7 +73,7 @@
   </defs>
 
   <rect width="1200" height="420" fill="url(#panel)"/>
-  <text x="60" y="62" class="h">Tech stack pyramid</text>
+  <text x="60" y="62" class="h">Tech stack</text>
   <text x="60" y="92" class="s">Animated tiers that match AI and blockchain work</text>
 
   <g filter="url(#shadow)">
