@@ -124,13 +124,13 @@
 
     <g transform="translate(340, 270)">
       <rect x="0" y="0" width="155" height="34" rx="12" fill="#0a1d33" opacity="0.8" stroke="#2ee8ff" stroke-opacity="0.35"/>
-      <text x="78" y="22" text-anchor="middle" class="tag">AI systems</text>
+      <text x="78" y="22" text-anchor="middle" class="tag">AI</text>
 
       <rect x="175" y="0" width="155" height="34" rx="12" fill="#0a1d33" opacity="0.8" stroke="#8b5cff" stroke-opacity="0.35"/>
       <text x="253" y="22" text-anchor="middle" class="tag">Blockchain</text>
 
       <rect x="350" y="0" width="170" height="34" rx="12" fill="#0a1d33" opacity="0.8" stroke="#2ee8ff" stroke-opacity="0.35"/>
-      <text x="435" y="22" text-anchor="middle" class="tag">TypeScript</text>
+      <text x="435" y="22" text-anchor="middle" class="tag">Full stack</text>
     </g>
   </g>
 
