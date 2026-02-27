@@ -1,11 +1,6 @@
 
 <!-- Profile README for YOUR_USERNAME. Create a repo named YOUR_USERNAME and put this as README.md -->
 
-<h1 align="center">Hi, I'm Phong Vo The</h1>
-<p align="center">
-  Full Stack Engineer • AI + Blockchain Developer
-</p>
-
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-%40YOUR_USERNAME-181717?logo=github&logoColor=white" />
