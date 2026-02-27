@@ -31,27 +31,7 @@
   <li>Frontend: React, Next.js, UI systems, dashboards, clean dev UX</li>
 </ul>
 
-<h2>Featured projects</h2>
+<p align="center">
+  <img src="https://github.com/intellegence0706/intellegence0706/blob/main/assets/ai-hero.svg" width="100%" />
+</p>
 
-<ul>
-  <li>
-    <a href="https://github.com/Otomatorg/badges-data">badges-data</a>:
-    on chain achievement badges, data pipeline, profile and badges tab workstream
-  </li>
-  <li>
-    <a href="https://github.com/Otomatorg/airdrop-wrapped">airdrop-wrapped</a>:
-    web growth tool showing all airdrops received, analytics and sharing focused UX
-  </li>
-</ul>
->
-
-  <rect x="18" y="18" width="1164" height="384" rx="22" fill="none" stroke="rgba(46,232,255,0.14)"/>
-</svg>
-
-<h2>Contact</h2>
-
-<ul>
-  <li>GitHub: <a href="https://github.com/YOUR_USERNAME">@YOUR_USERNAME</a></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/YOUR_LINKEDIN">YOUR_LINKEDIN</a></li>
-  <li>Email: YOUR_EMAIL</li>
-</ul>
