@@ -1,16 +1,4 @@
 
-<!-- Profile README for YOUR_USERNAME. Create a repo named YOUR_USERNAME and put this as README.md -->
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-%40YOUR_USERNAME-181717?logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/AI-Developer-4B8BBE" />
-  <img src="https://img.shields.io/badge/Blockchain-Builder-3C3C3D" />
-  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-Ready-363636?logo=solidity&logoColor=white" />
-</p>
-
 <p align="center">
   I build product focused systems at the intersection of AI agents, data, and on chain infrastructure.
 </p>
