@@ -1,7 +1,4 @@
 
-<p align="center">
-  I build product focused systems at the intersection of AI agents, data, and on chain infrastructure.
-</p>
 
 <hr/>
 
