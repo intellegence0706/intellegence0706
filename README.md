@@ -11,7 +11,5 @@
   <li>Frontend: Next.js, React Native, Flutter,UI systems, dashboards, clean dev UX</li>
 </ul>
 
-<p align="center">
-  <img src="https://github.com/intellegence0706/intellegence0706/blob/main/assets/ai-hero.svg" width="100%" />
-</p>
+
 
