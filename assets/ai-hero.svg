@@ -113,7 +113,6 @@
     </path>
   </g>
 
-  <!-- content -->
   <g filter="url(#soft)">
     <text x="600" y="175" text-anchor="middle" class="sub">Senior Developer</text>
     <g transform="translate(210, 205)">
