@@ -115,7 +115,6 @@
 
   <!-- content -->
   <g filter="url(#soft)">
-    <text x="600" y="140" text-anchor="middle" class="title">Hi, I am Tanakai Yuyu</text>
     <text x="600" y="175" text-anchor="middle" class="sub">Senior Developer</text>
     <g transform="translate(210, 205)">
       <rect x="0" y="0" width="780" height="46" rx="14" fill="#061225" opacity="0.65" stroke="#2ee8ff" stroke-opacity="0.25"/>
