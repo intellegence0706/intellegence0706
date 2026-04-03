@@ -13,10 +13,66 @@
 ## 🌟 About Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+<!-- Animated Gradient Background with SVG Integration -->
+<img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=400&section=header&text=&fontSize=0&animation=blinking&fontAlignY=50"/>
+
+<div style="position: relative; margin-top: -350px;">
+
+<!-- Floating SVG Icons Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" style="position: absolute; top: 20px; left: 10%;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" style="position: absolute; top: 60px; right: 15%;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" style="position: absolute; bottom: 80px; left: 20%;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90" style="position: absolute; bottom: 40px; right: 25%;"/>
+
+<!-- Central Profile Content -->
+<div style="background: linear-gradient(135deg, rgba(0,217,255,0.1) 0%, rgba(255,107,107,0.1) 50%, rgba(138,43,226,0.1) 100%); 
+            border-radius: 20px; 
+            padding: 40px; 
+            margin: 60px auto; 
+            max-width: 600px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" style="border-radius: 50%; border: 3px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.5);"/>
+
+<h3 style="color: #00D9FF; margin: 20px 0 10px 0;">� Blockchain & AI Innovator</h3>
+
+<p style="color: #FFFFFF; font-size: 16px; line-height: 1.6; text-align: center; margin: 20px 0;">
+I'm a passionate <strong style="color: #FF6B6B;">Blockchain & AI Developer</strong> with expertise in building decentralized applications, smart contracts, and AI-powered solutions. I combine cutting-edge blockchain technology with artificial intelligence to create innovative, scalable, and secure applications.
+</p>
+
+<!-- Skill Highlights with Icons -->
+<div style="display: flex; justify-content: space-around; margin-top: 30px; flex-wrap: wrap;">
+<div style="text-align: center; margin: 10px;">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+<p style="color: #00D9FF; font-size: 12px; margin: 5px 0;">Smart Contracts</p>
+</div>
+<div style="text-align: center; margin: 10px;">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
+<p style="color: #FF6B6B; font-size: 12px; margin: 5px 0;">Machine Learning</p>
+</div>
+<div style="text-align: center; margin: 10px;">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50"/>
+<p style="color: #8A2BE2; font-size: 12px; margin: 5px 0;">DeFi Protocols</p>
+</div>
+<div style="text-align: center; margin: 10px;">
+<img src="https://user-images.githubusercontent.com/74038190/212257456-4bc252f2-bc96-4b65-a7ea-07fde9c5c65e.gif" width="50"/>
+<p style="color: #32CD32; font-size: 12px; margin: 5px 0;">Web3 Integration</p>
+</div>
 </div>
 
-I'm a passionate **Blockchain & AI Developer** with expertise in building decentralized applications, smart contracts, and AI-powered solutions. I combine cutting-edge blockchain technology with artificial intelligence to create innovative, scalable, and secure applications.
+</div>
+
+</div>
+
+</div>
+
+<!-- Floating Particles Animation -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600" style="opacity: 0.3; margin-top: -100px;"/>
+</div>
 
 ---
 
@@ -30,7 +86,7 @@ I'm a passionate **Blockchain & AI Developer** with expertise in building decent
 ### 🤖 AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
 
-### 💻 Programming Languages
+### � Programming Languages
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,rust,solidity,go,cpp,java&theme=dark" />
 
 ### 🌐 Web Development
@@ -72,6 +128,16 @@ I'm a passionate **Blockchain & AI Developer** with expertise in building decent
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+<div align="center">
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+</div>
 
 ---
 
